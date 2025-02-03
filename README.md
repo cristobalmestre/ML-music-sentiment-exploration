@@ -16,8 +16,7 @@ This project explores the **sentiment analysis of song lyrics**, leveraging data
 ├── scripts/                   # Python scripts for data collection & processing
 │   ├── Install Lyric Genius.py     # Installs required API dependencies
 │   ├── Genius_path_for_lyrics_pandas.py  # Fetches song lyrics using Genius API
-│   ├── parsing_lyrics_pandas.py     # Extracts and cleans lyrics
-│   ├── (More to be added...)        
+│   ├── parsing_lyrics_pandas.py     # Extracts and cleans lyrics   
 ├── notebooks/                 # Jupyter notebooks for sentiment analysis
 │   ├── DAN_glove_Cristobal_no_stop_words_nopunctuation.ipynb  # DAN model without stopwords & punctuation
 │   ├── DAN_glove_Cristobal_no_stop_words_punct_4layers.ipynb  # DAN model with 4-layer architecture
