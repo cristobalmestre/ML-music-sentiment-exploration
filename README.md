@@ -53,6 +53,14 @@ This project explores the **sentiment analysis of song lyrics**, leveraging data
    ```
    *(If `requirements.txt` is missing, install manually: `pip install lyricsgenius rauth pandas requests beautifulsoup4 torch transformers`)*
 
+## 🎵 Getting a Genius API Key
+To fetch lyrics from the Genius API, you need an API key:
+
+Go to Genius API and log in or sign up.
+Click 'New API Client' and fill in the required details.
+Once approved, copy the Access Token.
+Store it in your environment variables or in a separate config file to use in the scripts.
+
 ## 🛠 Usage
 - Run **`Install Lyric Genius.py`** to set up API dependencies.
 - Use **`Genius_path_for_lyrics_pandas.py`** to fetch song lyrics from the Genius API.
