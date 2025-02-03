@@ -1,0 +1,9 @@
+lyricsgenius
+rauth
+pandas
+requests
+beautifulsoup4
+torch
+transformers
+numpy
+scikit-learn
